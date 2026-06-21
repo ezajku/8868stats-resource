@@ -1,2 +1,14 @@
 # 8868stats-resource
-HTML page archive and documentation
+
+页面文件归档说明
+
+这里收集多个独立页面，方便在同一个仓库中管理。
+
+## 文件存档
+
+- 页面文件由发布任务写入
+- README 作为仓库说明保留
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
